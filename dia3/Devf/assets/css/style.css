@@ -1,0 +1,78 @@
+body{
+  background-color: #222;
+}
+#main{
+  height: 40em;
+  width: 60em;
+  background-color: #eee;
+  position: absolute;
+  border: 1px solid black;
+}
+#logo1{
+  height: 4em;
+  position: absolute;
+}
+.logocont{
+  position: absolute;
+  left: 5px;
+}
+.productcont{
+  position: absolute;
+  left: -2em;
+}
+#product{
+  height: 35em;
+}
+.next{
+  background-color: rgba(0,0,0,0.5);
+  border: none;
+  color: white;
+  border-radius: 10%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+/* Back */
+
+#tech{
+  width: 10em;
+  height: 11em;
+  display: none;
+}
+.pctitle{
+  font-size: 13px;
+  font-style: oblique;
+  font-family: sans-serif;
+  color: #4285F4;
+}
+.pcdescription{
+  font-size: 10px;
+  font-family: sans-serif;
+}
+#windowslogo{
+  width: 50%;
+}
+#madein{
+  position: absolute;
+  top: 12em;
+  display: none;
+}
+
+.contain{
+  width: 30em;
+  height: 15em;
+  background-color: black;
+  position: absolute;
+  right: 21.9em;
+  display: none;
+}
+.boxx{
+  width: 32.75%;
+  height: 100%;
+  background-color: #eee;
+  display: inline-block;
+}
+aside h2{
+  margin: 0;
+}
