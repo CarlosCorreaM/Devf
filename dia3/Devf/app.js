@@ -6,5 +6,6 @@ $(document).ready(function() {
     $('#tech').fadeIn();
     $('#madein').fadeIn();
     $('.contain').fadeIn();
+    $('.barcode').fadeIn();
   });
 });

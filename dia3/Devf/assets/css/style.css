@@ -85,7 +85,7 @@ li{
   position: absolute;
   width: 400;
   height: 120;
-  bottom: 12px;
+  bottom: 11.4px;
 }
 .outside__vid{
   width: 50%;
@@ -97,5 +97,19 @@ li{
   padding-left: 16px;
 }
 .outside__ad p{
-  font-size: 13px;
+  font-size: 14px;
+}
+.outside__ad a{
+  color: #4285F4;
+  margin: 0;
+  padding: 0;
+}
+
+.barcode{
+  position: absolute;
+  bottom: 15px;
+  display: none;
+}
+.barcode__img{
+  width: 100px;
 }
