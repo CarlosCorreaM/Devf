@@ -64,7 +64,8 @@ body{
   height: 15em;
   background-color: black;
   position: absolute;
-  right: 21.9em;
+  right: 22.5em;
+  top: 7.9px;
   display: none;
 }
 .boxx{
@@ -75,4 +76,26 @@ body{
 }
 aside h2{
   margin: 0;
+}
+li{
+  font-size: 8px;
+}
+
+.outside{
+  position: absolute;
+  width: 400;
+  height: 120;
+  bottom: 12px;
+}
+.outside__vid{
+  width: 50%;
+  display: inline-block;
+}
+.outside__ad{
+  width:30%;
+  display: inline-block;
+  padding-left: 16px;
+}
+.outside__ad p{
+  font-size: 13px;
 }
