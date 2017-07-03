@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif;
+  text-align: center;
+}
+button{
+  background: white;
+  border: solid 1px black;
+  padding: .5rem;
+}
+.changeColor{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+.black{
+  background-color: black;
+}
+.blue{
+  background-color: blue;
+}

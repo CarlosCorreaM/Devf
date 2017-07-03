@@ -62,7 +62,6 @@ body{
 .contain{
   width: 30em;
   height: 15em;
-  background-color: black;
   position: absolute;
   right: 22.5em;
   top: 7.9px;
@@ -79,6 +78,7 @@ aside h2{
 }
 li{
   font-size: 8px;
+  display: block;
 }
 
 .outside{
